@@ -191,9 +191,9 @@ We will compute the following key metrics for each account:
 ---
 
 ## **📦 Final Deliverables**
-✔ **🔢 Jupyter Notebook / Python Script** – Full implementation.
-✔ **📄 CSV File** – `metrics.csv` Dataset with calculated financial metrics.
-✔ **🏆 Top 20 Accounts List** – Based on ranking.
+✔ **🔢 Jupyter Notebook / Python Script** – Full implementation. <br/>
+✔ **📄 CSV File** – `metrics.csv` Dataset with calculated financial metrics.  <br/>
+✔ **🏆 Top 20 Accounts List** – Based on ranking. <br/>
 ✔ **📜 Report** – Summary of findings & insights.
 
 ---
